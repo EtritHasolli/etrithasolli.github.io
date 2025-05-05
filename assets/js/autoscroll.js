@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const container = document.querySelector('.images_down.orientation_horizontal');
   const isMobile = window.innerWidth <= 768;
 
-  if (isMobile) {
+  if (isMobile && container) {
     let scrollAmount = 0;
     const scrollSpeed = 1; // Pixels per frame
     const scrollInterval = 20; // Milliseconds
