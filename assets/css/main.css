@@ -2588,6 +2588,36 @@ input, select, textarea {
 
 /* Image */
 
+	.images_down {
+		display: flex;
+		flex-direction: row;
+		overflow-x: auto; /* Manual scroll on larger screens */
+		-webkit-overflow-scrolling: touch;
+		scroll-behavior: smooth;
+		padding-bottom: 1em;
+		gap: 5px;
+		white-space: nowrap;
+	}
+	
+	.images_down.orientation_horizontal {
+		overflow-x: hidden; /* Hide scrollbar for auto-scroll on mobile */
+	}
+	  
+	.images_down img {
+		width: 60px; /* Consistent width */
+		height: auto;
+		margin: 0 5px;
+		object-fit: contain; /* Maintain aspect ratio */
+	}
+	
+	/* Mobile-specific styles */
+	@media (max-width: 768px) {
+		.images_down {
+			overflow-x: hidden; /* Hide scrollbar for auto-scroll */
+		}
+	}
+
+	
 	.image {
 		border: 0;
 		display: inline-block;
