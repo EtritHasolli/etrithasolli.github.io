@@ -2606,7 +2606,7 @@ input, select, textarea {
 	.images_down img {
 		width: 60px; /* Consistent width */
 		height: auto;
-		margin: 0 5px;
+		/* margin: 0 5px; */
 		object-fit: contain; /* Maintain aspect ratio */
 	}
 	
