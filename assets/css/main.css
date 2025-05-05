@@ -2600,7 +2600,7 @@ input, select, textarea {
 	}
 	
 	.images_down.orientation_horizontal {
-		overflow-x: hidden; /* Hide scrollbar for auto-scroll on mobile */
+		overflow-x: auto; /* Hide scrollbar for auto-scroll on mobile */
 	}
 	  
 	.images_down img {
