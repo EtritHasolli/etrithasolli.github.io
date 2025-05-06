@@ -2586,7 +2586,15 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
-/* Image */
+/* Image */ /* edhe per languages*/
+		.languages {
+			cursor: default;
+			margin-bottom: 30px;
+		}
+
+		.languages:hover {
+			color: #18bfef;
+		}
 
 	.images_down {
 		display: flex;
