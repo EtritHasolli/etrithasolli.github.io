@@ -2587,14 +2587,16 @@ input, select, textarea {
 		}
 
 /* Image */ /* edhe per languages*/
-		.languages {
-			cursor: default;
-			margin-bottom: 30px;
-		}
+	.languages {
+		cursor: default;
+		margin-bottom: 30px;
+		transition: all 0.5s;
+	}
 
-		.languages:hover {
-			color: #18bfef;
-		}
+	.languages:hover {
+		transform: scale(1.1);
+		color: #18bfef;
+	}
 
 	.images_down {
 		display: flex;
