@@ -57,14 +57,14 @@
 								<article style="display: flex; flex-direction: column; justify-content: space-between;">
 									<div>
 										<header>
-											<h2><a href="http://fondacionifreskia.ct.ws/projects.php">Ligjërata dhe dhurata për fëmijët jetim</a></h2>
+											<h2><a href="http://fondacionifreskia.ct.ws/projects.php">Lectures and gifts for orphaned children</a></h2>
 										</header>
 										<a href="http://fondacionifreskia.ct.ws/view-projects.php?id=88" class="image fit">
 											<img src="images/work1.jpg" alt="" />
 										</a>
 									</div>
 									<div>
-										<p>Në kuadër të këtij projekti, janë organizuar ligjërata për fëmijë të ndarë sipas grupmoshave të ndryshme. Gjatë këtyre ligjëratave, janë trajtuar tema të rëndësishme që lidhen me emocionet.</p>
+										<p>During the scope of this project, lectures were organized for orphaned children according to different social groups. During these lectures, important topics related to emotions were discussed.</p>
 										<ul class="actions special">
 											<li><a href="http://fondacionifreskia.ct.ws/view-projects.php?id=88" class="button">View Project</a></li>
 										</ul>
@@ -74,14 +74,14 @@
 								<article style="display: flex; flex-direction: column; justify-content: space-between;">
 									<div>
 										<header>
-											<h2><a href="http://fondacionifreskia.ct.ws/projects.php">Paketa ushqimi per njerez qe kane nevoje</a></h2>
+											<h2><a href="http://fondacionifreskia.ct.ws/projects.php">Food packages for people in need</a></h2>
 										</header>
 										<a href="http://fondacionifreskia.ct.ws/view-projects.php?id=89" class="image fit">
 											<img src="images/work2.jpg" alt="" />
 										</a>
 									</div>
 									<div>
-										<p>Në kuadër të këtij projekti, në bashkëpunim me Islamic Relief, janë shpërndarë 600 pako ushqimore dhe 600 thasë mielli nga 25 kg, me një vlerë mesatare prej rreth 75 euro për pako.</p>
+										<p>During the scope of this project, in collaboration with Islamic Relief, 600 food packages and 600 bags of rice from 25 kg, with an average value of about 75 euros per package, were distributed.</p>
 										<ul class="actions special">
 											<li><a href="http://fondacionifreskia.ct.ws/view-projects.php?id=89" class="button">View Project</a></li>
 										</ul>
@@ -91,14 +91,14 @@
 								<article style="display: flex; flex-direction: column; justify-content: space-between;">
 									<div>
 										<header>
-											<h2><a href="http://fondacionifreskia.ct.ws/projects.php">Ligjerata dhe shprendarje te dhuratave per femije jetim</a></h2>
+											<h2><a href="http://fondacionifreskia.ct.ws/projects.php">Lectures and distribution of gifts for orphaned children</a></h2>
 										</header>
 										<a href="http://fondacionifreskia.ct.ws/view-projects.php?id=98" class="image fit">
 											<img src="images/work3.jpg" alt="" />
 										</a>
 									</div>
 									<div>
-										<p>Ligjërata të veçanta për vetëdijesimin dhe përkrahjen morale të jetimëve, duke sjellë mesazhe shprese dhe dashurie. Njëkohësisht, u shpërndanë dhurata simbolike dhe ndihma materiale për t’i gëzuar dhe përkrahur fëmijët dhe nënat.</p>
+										<p>Special lectures for self-esteem and moral support of orphans, conveying messages of love and affection. At the same time, symbolic gifts and material donations were distributed to the orphans and their mothers.</p>
 										<ul class="actions special">
 											<li><a href="http://fondacionifreskia.ct.ws/view-projects.php?id=98" class="button">View Project</a></li>
 										</ul>
@@ -108,14 +108,14 @@
 								<article style="display: flex; flex-direction: column; justify-content: space-between;">
 									<div>
 										<header>
-											<h2><a href="http://fondacionifreskia.ct.ws/projects.php">Sofra e Kurban Bajramit</a></h2>
+											<h2><a href="http://fondacionifreskia.ct.ws/projects.php">Eid al-Adha table</a></h2>
 										</header>
 									</div>
 										<a href="http://fondacionifreskia.ct.ws/view-projects.php?id=102" class="image fit">
 											<img src="images/work4.jpg" alt="" />
 										</a>
 									<div>
-										<p>Rreth 200 pako me mish të fresket të Kurbanit u shpërndanë për familjet në nevojë të kryeqytetit dhe më shumë pako të shpërndara në Klinë dhe Fushë Kosovë. Me fat Kurban Bajramin❤️
+										<p>About 200 packages of fresh meat of Eid al-Adha were distributed to families in need in the capital and more packages distributed in Klinë and Fushë Kosovë. With the blessing of Eid al-Adha❤️
 										</p>
 										<ul class="actions special">
 											<li><a href="http://fondacionifreskia.ct.ws/view-projects.php?id=102" class="button">View Project</a></li>
