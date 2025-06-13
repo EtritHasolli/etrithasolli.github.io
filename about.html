@@ -50,7 +50,7 @@
 							</section>
 
 							<header class="major">
-								<h1>Voulentary Work</h1>
+								<h1 id="voluntary-work-title">Voluntary Work</h1>
 							</header>
 
 							<section class="posts" style="border-bottom: 2px solid #eeeeee;">
@@ -201,4 +201,18 @@
 			<script src="assets/js/main.js"></script>
 			<script src="assets/js/textchange.js"></script>
 	</body>
+
+	<script>
+		window.onload = function() {
+			if (window.innerWidth < 400) {
+				document.getElementById("voluntary-work-title").style.fontSize = "3rem";
+			}
+		}
+
+		window.onresize = function() {
+			if (window.innerWidth < 400) {
+				document.getElementById("voluntary-work-title").style.fontSize = "3rem";
+			}
+		}
+	</script>
 </html>
